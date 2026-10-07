@@ -4,7 +4,7 @@ A skill for Claude Code that writes the first draft of your client updates. You 
 
 This is the skill we use for our own client updates. We took our clients and our tools out, so it works for any agency.
 
-From the video [How I Automate Client Updates So Clients Stay](https://youtu.be/7sXI4dK1pug).
+From the video [Clients Going Quiet? Send This Update](https://youtu.be/7sXI4dK1pug).
 
 ## What it does
 
